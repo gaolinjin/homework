@@ -1,0 +1,16 @@
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.csprojAssemblyReference.cache
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.AssemblyInfoInputs.cache
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.AssemblyInfo.cs
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.csproj.CoreCompileInputs.cache
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\test1.exe
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\test1.deps.json
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\test1.runtimeconfig.json
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\test1.runtimeconfig.dev.json
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\test1.dll
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\ref\test1.dll
+D:\大二下\软件构造基础\homework3\test1\bin\Debug\net5.0\test1.pdb
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.dll
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\ref\test1.dll
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.pdb
+D:\大二下\软件构造基础\homework3\test1\obj\Debug\net5.0\test1.genruntimeconfig.cache
