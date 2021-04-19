@@ -1,0 +1,7 @@
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\bin\Debug\ConsoleOrder.exe.config
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\bin\Debug\ConsoleOrder.exe
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\bin\Debug\ConsoleOrder.pdb
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\obj\Debug\ConsoleOrder.csprojAssemblyReference.cache
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\obj\Debug\ConsoleOrder.csproj.CoreCompileInputs.cache
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\obj\Debug\ConsoleOrder.exe
+D:\大二下\软件构造基础\homework8\ConsoleOrder\ConsoleOrder\obj\Debug\ConsoleOrder.pdb

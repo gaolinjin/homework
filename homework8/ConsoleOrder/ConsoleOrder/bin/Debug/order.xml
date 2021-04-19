@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <orderitem>
+      <OrderDetails>
+        <orderitem />
+        <Id>1</Id>
+        <Totalamount>240</Totalamount>
+        <P>
+          <Name>dumpling</Name>
+          <Price>8</Price>
+        </P>
+        <Productquantity>30</Productquantity>
+      </OrderDetails>
+    </orderitem>
+    <Id>1</Id>
+    <Disp_id>000001</Disp_id>
+    <Customername>Jack Ma</Customername>
+    <Totalamount>240</Totalamount>
+  </Order>
+  <Order>
+    <orderitem>
+      <OrderDetails>
+        <orderitem />
+        <Id>2</Id>
+        <Totalamount>500</Totalamount>
+        <P>
+          <Name>hd noodles</Name>
+          <Price>5</Price>
+        </P>
+        <Productquantity>100</Productquantity>
+      </OrderDetails>
+      <OrderDetails>
+        <orderitem />
+        <Id>2</Id>
+        <Totalamount>1600</Totalamount>
+        <P>
+          <Name>dumpling</Name>
+          <Price>8</Price>
+        </P>
+        <Productquantity>200</Productquantity>
+      </OrderDetails>
+      <OrderDetails>
+        <orderitem />
+        <Id>2</Id>
+        <Totalamount>200</Totalamount>
+        <P>
+          <Name>bao zi</Name>
+          <Price>2</Price>
+        </P>
+        <Productquantity>100</Productquantity>
+      </OrderDetails>
+    </orderitem>
+    <Id>2</Id>
+    <Disp_id>000002</Disp_id>
+    <Customername>Lei Jun</Customername>
+    <Totalamount>2300</Totalamount>
+  </Order>
+</ArrayOfOrder>
