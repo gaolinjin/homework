@@ -1,0 +1,194 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>��������--�۵�--������</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="223228" />
+
+<!-- ������ʽ�� -->
+<link rel="stylesheet"  href="/img/MAIN/2014/06/114590/page.css" type="text/css" media="all"  />
+<link rel="stylesheet"  href="http://www.people.com.cn/img/MAIN/2016/11/116906/page_nav.css" type="text/css" media="all"  />
+
+
+<script type="text/javascript" src='http://tools.people.com.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+<script type="text/javascript" src="http://www.people.com.cn/css/search.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 6px 0 6px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">��վ��ҳ</a><a href="http://cpc.people.com.cn/" target="_blank">������ʱ��</a><a href="http://finance.people.com.cn/" target="_blank">���á��Ƽ�</a><a href="http://society.people.com.cn/" target="_blank">��ᡤ����</a><a href="http://ent.people.com.cn/" target="_blank">���á�����</a><a href="http://health.people.com.cn/" target="_blank">����������</a><a href="http://opinion.people.com.cn/" target="_blank">�۵�</a><a href="http://fangtan.people.com.cn/" target="_blank">��̸</a><a href="http://world.people.com.cn/" target="_blank">����</a><a href="http://military.people.com.cn/" target="_blank">����</a><a href="http://hm.people.com.cn/" target="_blank">�۰�</a><a href="http://tw.people.com.cn/" target="_blank">̨��</a><a href="http://v.people.cn/" target="_blank">��Ƶ</a><a href="http://pic.people.com.cn/" target="_blank">ͼƬ</a><a href="http://edu.people.com.cn/" target="_blank">����</a><a href="http://house.people.com.cn/" target="_blank">����</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">��¼</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">ע��</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">�˳�</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>��¼������ͨ��֤ &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">����ע��</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="�������û���" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">��ס��¼״̬</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">�������룿</a></p>
+            <p class="tc"><input type="submit" name="" value="��¼" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/MAIN/2016/11/116906/js/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--ͨ�����-->
+<div class="w1000 ad_column_1 clear">
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016channel|dingbutonglan&db=people&border=0&local=yes&js=ie&kv=people|opinion;third|223228;fourth|;newsid|0' charset='gbk'></script>
+</div>
+<!--pd_logo-->
+<div class="w1000 clear logo_line mt15 o_h">
+    <div class="fl"><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/logo_rmw.png" width="120" height="46" alt="������" /></a><span>�۵�</span></div>  
+  <div class="fr">
+    <form action="http://search.people.cn/getNewsResult" name="searchForm" method="get" target="_blank">
+<input type="hidden" name="channel" value="opinion" />
+    <input type="image" src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/icon2.gif" />
+    <input type="text" name="keyword" Id="keyword" value="���ż���"  onblur="if(this.value=='') this.value='���ż���';this.style.color='#ccc';" onfocus="if(this.value=='���ż���') this.value='';this.style.color='#000';" class="jianso_t"/>
+	</form> 
+	</div>
+</div>
+<!--����-->
+<div class="pd_nav w1000 white mt15"><a href="http://opinion.people.com.cn/" target="_blank">�۵�Ƶ��</a><a href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/8213/420650/index.html" target="_blank">����</a><a href="http://opinion.people.com.cn/GB/427456/index.html" target="_blank">�������</a><a href="http://opinion.people.com.cn/GB/431649/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/431360/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/427498/index.html" target="_blank">���˿���</a><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target="_blank">�۵�1��1</a><a href="http://opinion.people.com.cn/GB/1036/index.html" target="_blank">��������</a>
+&nbsp;<a href="mailto:opinion@people.cn" target="_blank">Ͷ������</a></div>
+<div class="quan_nav w1000">
+<a href="http://opinion.people.com.cn/GB/40604/index.html" target="_blank">��ϵ����</a>
+<a href="http://opinion.people.com.cn/GB/8213/49160/index.html" target="_blank">�����ձ�Ҫ��</a><a href="http://opinion.people.com.cn/GB/8213/49160/49179/index.html" target="_blank">�����ձ�����</a><a href="http://opinion.people.com.cn/GB/8213/49160/49205/index.html" target="_blank">����ƽ</a><a href="http://opinion.people.com.cn/GB/8213/49160/49217/index.html" target="_blank">����Ա</a><a href="http://opinion.people.com.cn/GB/8213/49160/49221/index.html" target="_blank">����̸</a><a href="http://opinion.people.com.cn/GB/8213/353915/353917/index.html" target="_blank">����۵�</a><a href="http://opinion.people.com.cn/GB/8213/49160/49220/index.html" target="_blank">������̳</a><a href="http://opinion.people.com.cn/GB/8213/353915/353916/index.html" target="_blank">����ʱ��</a><a href="http://opinion.people.com.cn/GB/8213/49160/54773/index.html" target="_blank">����¥</a><a href="http://opinion.people.com.cn/GB/8213/49160/69963/index.html" target="_blank">����ƽ</a><a href="http://opinion.people.com.cn/GB/8213/408448/index.html" target="_blank">����</a></div>
+<!--��ʱ���� ����-->
+
+
+<!--list-->
+<div class="path w1000_320 clearfix red"><a href="http://www.people.com.cn/">������</a> &gt;&gt; <a href="http://opinion.people.com.cn/">�۵�</a> &gt;&gt; <a href="http://opinion.people.com.cn/GB/223228/index.html">��������</a></div>
+<div class="clearfix w1000_320">
+  <div class="fl p2j_list">
+     
+    <div class="bor">
+     <ul class="list_14 clearfix"><li><a href='/n1/2021/0514/c223228-32103200.html' target=_blank>��������������ѡ��פ����ǣ���͸������˻���</a> <i class="gray">2021-05-14 08:59</i></li>
+<li><a href='/n1/2021/0513/c1003-32102662.html' target=_blank>���������������йܣ�ն�ϡ�ʵ���Ҷ�Ʒ���Ĵ���</a> <i class="gray">2021-05-13 19:11</i></li>
+<li><a href='/n1/2021/0513/c223228-32101867.html' target=_blank>������������ˮ����, �ӵ�����𡢴��������</a> <i class="gray">2021-05-13 08:41</i></li>
+<li><a href='/n1/2021/0512/c223228-32101151.html' target=_blank>�����������˿����ݱ仯�ı����Ƿ�չ���й�</a> <i class="gray">2021-05-12 14:21</i></li>
+<li><a href='/n1/2021/0512/c223228-32100591.html' target=_blank>�������������η��ּ��־��ֵ��������</a> <i class="gray">2021-05-12 08:13</i></li>
+<li><a href='/n1/2021/0511/c223228-32100360.html' target=_blank>���������������й����죬���δ��������</a> <i class="gray">2021-05-11 19:37</i></li>
+<li><a href='/n1/2021/0511/c223228-32100128.html' target=_blank>����������������������Ӳ������ҲҪץ��ץʵ</a> <i class="gray">2021-05-11 14:59</i></li>
+<li><a href='/n1/2021/0509/c223228-32098105.html' target=_blank>������������ץʵ�ɣ�Ϊ��ʮ���塱���þ���ò�</a> <i class="gray">2021-05-09 09:14</i></li>
+<li><a href='/n1/2021/0509/c223228-32098093.html' target=_blank>����������"�����¼�"֮��:��������̲��ݻ�!</a> <i class="gray">2021-05-09 08:56</i></li>
+<li><a href='/n1/2021/0508/c223228-32097922.html' target=_blank>����������"�����¼�"֮��:�������氵������?</a> <i class="gray">2021-05-08 19:12</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2021/0507/c204041-32097083.html' target=_blank>����������"�����¼�"֮һ:����Ǯ���䵱��˿?</a> <i class="gray">2021-05-07 20:31</i></li>
+<li><a href='/n1/2021/0506/c223228-32095856.html' target=_blank>��������������������̬���������飬����̫��</a> <i class="gray">2021-05-06 16:02</i></li>
+<li><a href='/n1/2021/0503/c223228-32094313.html' target=_blank>����������Ŭ����Ϊ�������帴�����ε�ʱ������</a> <i class="gray">2021-05-03 15:15</i></li>
+<li><a href='/n1/2021/0430/c223228-32093442.html' target=_blank>����������������գ�������ҵ��Ҫ���Ҹ���</a> <i class="gray">2021-04-30 18:34</i></li>
+<li><a href='/n1/2021/0430/c223228-32092915.html' target=_blank>��������:����"��һ",�й����߳ɹ�������ڹ��</a> <i class="gray">2021-04-30 10:01</i></li>
+<li><a href='/n1/2021/0429/c223228-32092294.html' target=_blank>���������������������������������׬��ɶ��</a> <i class="gray">2021-04-29 19:58</i></li>
+<li><a href='/n1/2021/0429/c223228-32091531.html' target=_blank>����������������ʱ���й���ɫ�������׳������</a> <i class="gray">2021-04-29 08:44</i></li>
+<li><a href='/n1/2021/0429/c223228-32091347.html' target=_blank>��������:���ְ�ȫ���ַ���,��������"��һ"����</a> <i class="gray">2021-04-29 08:14</i></li>
+<li><a href='/n1/2021/0428/c223228-32090552.html' target=_blank>����������û�����á�ĸ�׺ӡ������ײ������ˣ�</a> <i class="gray">2021-04-28 09:29</i></li>
+<li><a href='/n1/2021/0428/c223228-32090422.html' target=_blank>��������������һ�����У���������Ī���ɾ���</a> <i class="gray">2021-04-28 08:43</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2021/0426/c223228-32088418.html' target=_blank>����������Bվ����ʦ����Ǹ����ʾ��˭��</a> <i class="gray">2021-04-26 12:07</i></li>
+<li><a href='/n1/2021/0426/c223228-32088043.html' target=_blank>������������ƶ��٣�������������о�ʾ����</a> <i class="gray">2021-04-26 08:32</i></li>
+<li><a href='/n1/2021/0424/c223228-32086657.html' target=_blank>����������˭ֱ��������˭��Ӫ�����������ȷ��</a> <i class="gray">2021-04-24 08:50</i></li>
+<li><a href='/n1/2021/0423/c223228-32086382.html' target=_blank>����������Ϊ�������ϱ�ע�·���ע���¶���</a> <i class="gray">2021-04-23 19:53</i></li>
+<li><a href='/n1/2021/0422/c223228-32085271.html' target=_blank>����������������ý�壬Ҫ���С���Ҫ���š�</a> <i class="gray">2021-04-22 20:03</i></li>
+<li><a href='/n1/2021/0422/c223228-32084866.html' target=_blank>�����������Ը�����̬�ȿ������ĸ�δ����</a> <i class="gray">2021-04-22 10:41</i></li>
+<li><a href='/n1/2021/0422/c223228-32084407.html' target=_blank>����������һ����ѧ����Ҫ�����������ѧ����</a> <i class="gray">2021-04-22 08:07</i></li>
+<li><a href='/n1/2021/0420/c223228-32083049.html' target=_blank>�������������ܶ��¹ڲ���������ѽ��ֶ�����˼</a> <i class="gray">2021-04-20 18:49</i></li>
+<li><a href='/n1/2021/0420/c223228-32082230.html' target=_blank>����������Ϊ����˵���ԡ��Ļ����������</a> <i class="gray">2021-04-20 08:09</i></li>
+<li><a href='/n1/2021/0419/c223228-32082024.html' target=_blank>������������λ��⡰��꿳��ҩ�������Σ�</a> <i class="gray">2021-04-19 19:49</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2021/0416/c223228-32079459.html' target=_blank>������������ǿ�������������������ʱ���</a> <i class="gray">2021-04-16 08:09</i></li>
+<li><a href='/n1/2021/0415/c223228-32078884.html' target=_blank>����������ְҵ����ǰ;���������п�Ϊ</a> <i class="gray">2021-04-15 13:05</i></li>
+<li><a href='/n1/2021/0415/c223228-32078344.html' target=_blank>�����������ػ����Ұ�ȫ�������з�����</a> <i class="gray">2021-04-15 08:14</i></li>
+<li><a href='/n1/2021/0414/c223228-32077719.html' target=_blank>�����������޶���·��ͨ��ȫ������������</a> <i class="gray">2021-04-14 11:08</i></li>
+<li><a href='/n1/2021/0412/c223228-32075986.html' target=_blank>���������������ļ��ɹ涨�ᴩ����ȫ����</a> <i class="gray">2021-04-12 18:20</i></li>
+<li><a href='/n1/2021/0410/c223228-32074599.html' target=_blank>����������������ʶ���һ���������о�����Ƿ�</a> <i class="gray">2021-04-10 09:47</i></li>
+<li><a href='/n1/2021/0410/c223228-32074590.html' target=_blank>�����������Է���Ϊ��ʳ��Ч��ͨ���ݻ���</a> <i class="gray">2021-04-10 09:35</i></li>
+<li><a href='/n1/2021/0408/c223228-32072912.html' target=_blank>������������ֲ���ξ��������������Ļ�����</a> <i class="gray">2021-04-08 10:53</i></li>
+<li><a href='/n1/2021/0408/c223228-32072908.html' target=_blank>����������Ϊ�����ƶ��ҵ����ע���й�����</a> <i class="gray">2021-04-08 10:52</i></li>
+<li><a href='/n1/2021/0404/c223228-32069466.html' target=_blank>����������"Ӣ�ұ���"֮��:���ʹ�ʶ,���ص���</a> <i class="gray">2021-04-04 10:39</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2021/0403/c223228-32069184.html' target=_blank>����������"Ӣ�ұ���"֮��:��������,��������</a> <i class="gray">2021-04-03 12:59</i></li>
+<li><a href='/n1/2021/0403/c223228-32069085.html' target=_blank>������������������ʱ����չ�б��������ں�</a> <i class="gray">2021-04-03 08:34</i></li>
+<li><a href='/n1/2021/0403/c223228-32069056.html' target=_blank>�����������γ�Ⱥ�����ߣ���Ҫ���һ���ۡ�֮��</a> <i class="gray">2021-04-03 08:21</i></li>
+<li><a href='/n1/2021/0402/c223228-32068056.html' target=_blank>����������"Ӣ�ұ���"֮һ:ΰ����,��������</a> <i class="gray">2021-04-02 08:24</i></li>
+<li><a href='/n1/2021/0331/c223228-32066487.html' target=_blank>���������������������������ƪ��</a> <i class="gray">2021-03-31 17:53</i></li>
+<li><a href='/n1/2021/0331/c223228-32066203.html' target=_blank>�������������������������֡��Ϻ����</a> <i class="gray">2021-03-31 14:24</i></li>
+<li><a href='/n1/2021/0330/c223228-32064958.html' target=_blank>�������������������걸�ĸɲ�����ල�ƶ���ϵ</a> <i class="gray">2021-03-30 10:30</i></li>
+<li><a href='/n1/2021/0329/c223228-32063899.html' target=_blank>����������NASA��̨����Ϊ�����ҡ���������Ϊ��</a> <i class="gray">2021-03-29 15:47</i></li>
+<li><a href='/n1/2021/0326/c223228-32061806.html' target=_blank>����������ϣ�����������ܹ������������ڵļ���</a> <i class="gray">2021-03-26 13:17</i></li>
+<li><a href='/n1/2021/0324/c223228-32059874.html' target=_blank>�������������ð�����£�����ʱ��ǿ��</a> <i class="gray">2021-03-24 18:06</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2021/0323/c223228-32058656.html' target=_blank>����������������ģʽ�ܷ���Ч, ƽ̨̬����ؼ�</a> <i class="gray">2021-03-23 18:23</i></li>
+<li><a href='/n1/2021/0322/c223228-32057425.html' target=_blank>������������ʷ�ݡ���ζ����������ʽ����֮��</a> <i class="gray">2021-03-22 17:58</i></li>
+<li><a href='/n1/2021/0319/c223228-32055933.html' target=_blank>������������ʷ����Ĩ�ڣ�Ӣ�۱��뺴��</a> <i class="gray">2021-03-19 19:27</i></li>
+<li><a href='/n1/2021/0318/c223228-32054388.html' target=_blank>��������������Ѽ���ũ������г�</a> <i class="gray">2021-03-18 08:21</i></li>
+<li><a href='/n1/2021/0316/c223228-32052596.html' target=_blank>�������������ظ��غ��ߣ����ٴ��������������</a> <i class="gray">2021-03-16 09:56</i></li>
+</ul>
+     <div class="page_n clearfix"><a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index2.html'  >��һҳ</a>
+</div><!--all page--><!--PageNo=3-->
+</div>
+  </div>
+  <div class="fr p2_right">
+      <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/364827/index.html" target="_blank">ר��ͼ��</a>
+</h2>
+        <div class="pic02"><a href="http://opinion.people.com.cn/GB/8213/49160/index.html" target=_blank><img src="/NMediaFile/2020/0917/MAIN202009171040375680651302266.jpg" width="268" height="180" alt="�����ձ���Ҫ���ۿ�"/></a><a href="http://opinion.people.com.cn/GB/8213/49160/index.html" target=_blank>�����ձ���Ҫ���ۿ�</a>
+<a href="http://opinion.people.com.cn/GB/8213/433770/index.html" target=_blank><img src="/NMediaFile/2020/0917/MAIN202009171027490416803540293.jpg" width="268" height="180" alt="�������񷨵�D�Dʱ�������⡱ϵ������"/></a><a href="http://opinion.people.com.cn/GB/8213/433770/index.html" target=_blank>�������񷨵�D�Dʱ�������⡱ϵ������</a>
+<a href="http://opinion.people.com.cn/GB/8213/433771/index.html" target=_blank><img src="/NMediaFile/2020/0917/MAIN202009171024165135899373886.jpeg" width="268" height="180" alt="��ȫ������۹���������ϵ������"/></a><a href="http://opinion.people.com.cn/GB/8213/433771/index.html" target=_blank>��ȫ������۹���������ϵ������</a>
+<a href="http://opinion.people.com.cn/GB/8213/431743/index.html" target=_blank><img src="/NMediaFile/2020/0917/MAIN202009171032029409390719545.jpg" width="268" height="180" alt="��ѧ���� ���򸴲�"/></a><a href="http://opinion.people.com.cn/GB/8213/431743/index.html" target=_blank>��ѧ���� ���򸴲�</a>
+<a href="http://opinion.people.com.cn/n1/2021/0308/c431360-32045937.html" target=_blank><img src="/NMediaFile/2021/0406/MAIN202104060939203503833361484.jpg" width="268" height="180" alt="����2021����"/></a><a href="http://opinion.people.com.cn/n1/2021/0308/c431360-32045937.html" target=_blank>����2021����</a>
+</div> 
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/" target="_blank">24Сʱ�������</a>
+</h2>
+        <ol><!--1--><li><a href="/n1/2021/0513/c1003-32101535.html">����ѡ���ҳϸɾ�����������ɲ�</a></li><!--2--><li><a href="/n1/2021/0513/c1003-32101480.html">�ø��༼���˲���ӱ����������۵㣩</a></li><!--3--><li><a href="/n1/2021/0513/c1003-32101502.html" title="����ȫ�潨����������ִ������������̣�����ѧϰ�᳹ϰ��ƽ��ʱ���й���ɫ�������˼�룩">����ȫ�潨����������ִ�������������</a></li><!--4--><li><a href="/n1/2021/0513/c1003-32101459.html">�ú�ɫ��Դ�ʻ�����������̸��</a></li><!--5--><li><a href="/n1/2021/0513/c1003-32101483.html" title="������������ ����������Ϣ������ʱ����">������������&nbsp;����������Ϣ������ʱ��</a></li><!--6--><li><a href="/n1/2021/0513/c223228-32101867.html" title="������������ˮ����, �ӵ�����𡢴��������">������������ˮ����,&nbsp;�ӵ�����𡢡�</a></li><!--7--><li><a href="/n1/2021/0513/c1003-32101523.html">���ܲ��ƺ��һ����֮��������</a></li><!--8--><li><a href="/n1/2021/0513/c1003-32101996.html" title="�������������������ʡ����ź��� ����������">�������������������ʡ����ź���&nbsp;��</a></li><!--9--><li><a href="/n1/2021/0513/c1003-32101479.html">�ӵ�ʷѧϰ�м���������������̳��</a></li><!--10--><li><a href="/n1/2021/0513/c1003-32102665.html" title="���������ˮ������ʣ��Ż�Ӫ�̻�����ֹ��">���������ˮ������ʣ��Ż�Ӫ�̻�����</a></li></ol>
+     </div>  
+  </div>
+</div>
+<!--list end-->
+
+<!--copyright-->
+<div class="copyright red">
+<style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">�� �� �� �� Ȩ �� �� ��δ �� �� �� �� Ȩ �� ֹ ʹ ��<br />
+Copyright &copy; 1997-2021 by www.people.com.cn. all rights reserved</div></div>
+<style type="text/css">
+<!--
+.copyright{ text-align:center; padding:30px 0;}
+-->
+</style>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--2017ͳ�ƴ���Ƶ��-->
+<!--2017ͳ�ƴ���-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '223228']);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+</body>
+</html>

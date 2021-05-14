@@ -1,0 +1,441 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+    <meta http-equiv="Content-Language" content="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>�������--�۵�--������</title>
+    <meta content="all" name="robots" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="filetype" content="1" />
+    <meta name="publishedtype" content="1" />
+    <meta name="pagetype" content="2" />
+    <meta name="catalogs" content="427456" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> -->
+    <!--����ʹ�� IE ���°汾�� Chrome -->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <!--360 ʹ��Google Chrome Frame-->
+    <meta name="renderer" content="webkit">
+    <script src="http://tools.people.com.cn/libs/jquery/3.0.0/jquery-3.0.0.min.js" type="text/javascript"></script>
+    <link href="/img/MAIN/2020/11/120599/static/css/default.css" rel="stylesheet">
+    <script type="text/javascript" src="/img/MAIN/2020/11/120599/static/js/app.js"></script>
+    <script src="/img/MAIN/2020/11/120599/static/libs/swiper.min.js"></script>
+    <link href="/img/MAIN/2020/11/120599/static/libs/swiper.min.css" rel="stylesheet">
+    <link href="/img/MAIN/2020/11/120599/static/css/animate.min.css" rel="stylesheet">
+    <style>
+    .blo1 .swiper-slide p{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50% ,-50%);
+		color: #fbd4bb;
+		font-size: 36px;
+		width: 100%;
+		text-align: center;
+	}
+	.swiper2.swiper-container .content{
+		overflow : hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-line-clamp: 4;
+		-webkit-box-orient: vertical;
+		
+		}
+	.blo3 .blo3_r ul p{font-size:12px}
+	.swiper2.swiper-container h4{margin-bottom:10px}
+	.swiper2.swiper-container{padding-bottom:50px}
+	.top-nav .nav1{background:#0073de}
+	.blo3 .blo3_l .blo3_l_main ul li .content{text-indent:0}
+    .blo3 .blo3_l .nav li.active{background:#e60012}
+	.top-nav{margin-top:0}
+	.blo3 .blo3_l .blo3_l_main ul li .btm .time{font-size:12px}
+	.blo1 .swiper-pagination-bullet{height:4px;border-radius:4px}
+	.blo3 .blo3_r{border:1px solid #eaeaea}
+.nav .active a{color:#fff}
+    </style>
+</head>
+
+<body>
+    <!--top-->
+<div class="top_nav clearfix" style="display:none">
+    <div class="w1000 white pos_re_login">
+       <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 6px 0 6px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">��վ��ҳ</a><a href="http://cpc.people.com.cn/" target="_blank">������ʱ��</a><a href="http://finance.people.com.cn/" target="_blank">���á��Ƽ�</a><a href="http://society.people.com.cn/" target="_blank">��ᡤ����</a><a href="http://ent.people.com.cn/" target="_blank">���á�����</a><a href="http://health.people.com.cn/" target="_blank">����������</a><a href="http://opinion.people.com.cn/" target="_blank">�۵�</a><a href="http://fangtan.people.com.cn/" target="_blank">��̸</a><a href="http://world.people.com.cn/" target="_blank">����</a><a href="http://military.people.com.cn/" target="_blank">����</a><a href="http://hm.people.com.cn/" target="_blank">�۰�</a><a href="http://tw.people.com.cn/" target="_blank">̨��</a><a href="http://v.people.cn/" target="_blank">��Ƶ</a><a href="http://pic.people.com.cn/" target="_blank">ͼƬ</a><a href="http://edu.people.com.cn/" target="_blank">����</a><a href="http://house.people.com.cn/" target="_blank">����</a></div>
+       <div class="fr">
+           <div id="txz_dlq"><a id="login_button">��¼</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">ע��</a></div>
+         <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">�˳�</a></div>
+       </div>
+       <div class="p_login" id="p_login">
+             <div id="txz_dlq">
+                <p>��¼������ͨ��֤ &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">����ע��</a></p>
+                <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+                    <p><input type="text" value="�������û���" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+                    <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">��ס��¼״̬</label></span>
+                    <p><a href="http://sso.people.com.cn/u/findpwd/user">�������룿</a></p>
+                    <p class="tc"><input type="submit" name="" value="��¼" class="people_button_sub"></p>
+                </form>
+             </div>
+         </div>
+    </div>
+ </div>
+ <script type="text/javascript" src="http://www.people.com.cn/img/MAIN/2016/11/116906/js/main_login.js" charset='utf-8'></script>
+ <!--top end-->
+ <!--pd_logo-->
+<div class="w1000 clearfix logo_line mt5 o_h" style="display:none;">
+    <div class="fl"><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/logo_rmw.png" width="120" height="46" alt="������" /></a></div>
+    <div class="fr">
+       
+      </div>
+</div>
+    <div class="top-nav w1000">
+    
+        <p class="nav1"><a href="http://opinion.people.com.cn/" target="_blank">�۵�Ƶ��</a><a href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/8213/420650/index.html" target="_blank">����</a><a href="http://opinion.people.com.cn/GB/427456/index.html" target="_blank">�������</a><a href="http://opinion.people.com.cn/GB/431649/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/431360/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target="_blank">�۵�1��1</a><a href="http://opinion.people.com.cn/GB/1036/index.html" target="_blank">��������</a>
+&nbsp;<a href="mailto:opinion@people.cn" target="_blank">Ͷ������</a></p>
+        <p class="nav2"><a href="http://opinion.people.com.cn/GB/40604/index.html" target="_blank">��ϵ����</a>
+<a href="http://opinion.people.com.cn/GB/8213/49160/index.html" target="_blank">�����ձ�Ҫ��</a><a href="http://opinion.people.com.cn/GB/8213/49160/49179/index.html" target="_blank">�����ձ�����</a><a href="http://opinion.people.com.cn/GB/8213/49160/49205/index.html" target="_blank">����ƽ</a><a href="http://opinion.people.com.cn/GB/8213/49160/49217/index.html" target="_blank">����Ա</a><a href="http://opinion.people.com.cn/GB/8213/49160/49221/index.html" target="_blank">����̸</a><a href="http://opinion.people.com.cn/GB/8213/353915/353917/index.html" target="_blank">����۵�</a><a href="http://opinion.people.com.cn/GB/8213/49160/49220/index.html" target="_blank">������̳</a><a href="http://opinion.people.com.cn/GB/8213/353915/353916/index.html" target="_blank">����ʱ��</a><a href="http://opinion.people.com.cn/GB/8213/49160/54773/index.html" target="_blank">����¥</a><a href="http://opinion.people.com.cn/GB/8213/49160/69963/index.html" target="_blank">����ƽ</a><a href="http://opinion.people.com.cn/GB/8213/408448/index.html" target="_blank">����</a></p>
+        
+    </div>
+    <div class="blo1">
+        <div class="swiper-container swiper1 w1000">
+            <div class="swiper-wrapper"><div class="swiper-slide"><a href="http://opinion.people.com.cn/n1/2021/0508/c1003-32097920.html" target="_blank"><img src="/NMediaFile/2021/0509/MAIN202105090822399039369456914.jpg" width="1000" height="250" border="0" alt=""/></a><p><a href="http://opinion.people.com.cn/n1/2021/0508/c1003-32097920.html" target="_blank"></a></p></div>
+<div class="swiper-slide"><a href="http://opinion.people.com.cn/n1/2021/0508/c1003-32097928.html" target="_blank"><img src="/NMediaFile/2021/0509/MAIN202105090825161427824356091.jpg" width="1000" height="250" border="0" alt=""/></a><p><a href="http://opinion.people.com.cn/n1/2021/0508/c1003-32097928.html" target="_blank"></a></p></div>
+<div class="swiper-slide"><a href="http://opinion.people.com.cn/n1/2021/0507/c1003-32097004.html" target="_blank"><img src="/NMediaFile/2021/0508/MAIN202105081407478099746405800.jpg" width="1000" height="250" border="0" alt=""/></a><p><a href="http://opinion.people.com.cn/n1/2021/0507/c1003-32097004.html" target="_blank"></a></p></div>
+<div class="swiper-slide"><a href="http://opinion.people.com.cn/n1/2021/0506/c434878-32096067.html" target="_blank"><img src="/NMediaFile/2021/0507/MAIN202105070841033029880831008.jpg" width="1000" height="250" border="0" alt=""/></a><p><a href="http://opinion.people.com.cn/n1/2021/0506/c434878-32096067.html" target="_blank"></a></p></div>
+</div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+    
+    <div class="blo3 w1000 mt30">
+        <div class="left blo3_l">
+            <ul class="nav"><ul class="title clearfix">
+       <li class="withe active" id="p2Aa_1" onMouseOver="showmen2(1)" style="cursor:pointer"><a href="http://opinion.people.com.cn/GB/427456/434878/index.html">���ù۲�</a></li>
+       <li id="p2Aa_2" onMouseOver="showmen2(2)" style="cursor:pointer"><a href="http://opinion.people.com.cn/GB/427456/434885/index.html">��ҵ�ӵ�</a></li>
+       <li id="p2Aa_3" onMouseOver="showmen2(3)" style="cursor:pointer"><a href="http://opinion.people.com.cn/GB/427456/434886/index.html">��������</a></li>
+     </ul></ul>
+            <div class="blo3_l_main">
+               <ul><li><h4><a href='/n1/2021/0513/c1003-32102665.html' >���������ˮ������ʣ��Ż�Ӫ�̻�����ֹ��</a></h4>
+     <p class="content">������С��ҵ�����ר��ƽ���ʷ��ٽ�10%������淶����ˮ���繩����ů��ҵ�շѣ���С��ģ��˰����ֵ˰������������۶�10��Ԫ��ߵ�15��Ԫ������ǰ�����ҷ�չ�ĸ�ί�����Ų���4��������ӡ������������2021�꽵�ɱ��ص㹤����֪ͨ����8����19�����������������ԣ������ʹ�㣬Ϊ�г����������չ���ϡ�����������
+
+	����������������������ͳ���ƽ�������غ;�����ᷢչ����������ʵʩ������ߣ��ƶ��ҹ����ûָ�ȡ�����Գ�Ч���������п������ã���������չȡ���³�Ч��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-13 19:31</span></div>
+</li>
+<li><h4><a href='/n1/2021/0513/c1003-32101996.html' >�������������������ʡ����ź��� ����������</a></h4>
+     <p class="content">������1ǧԪ�շѵ���2ë������Ϣ�ͣ���Ϣ����0.02%������ȯ�����Ϣ30�족�����ǰ15��0Ϣ�ѡ�������һЩ����APP����������������ǲ��ƵĶ�ȡ����͵����ʡ��򵥵�������������Ϊ֮�Ķ������ǣ�������������
+
+	�׻�˵������û����ѵ���͡�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-13 09:20</span></div>
+</li>
+<li><h4><a href='/n1/2021/0512/c427456-32101177.html' >�������:�˿�������������,Ϊ���÷�չ�����¶���</a></h4>
+     <p class="content">���������̺��Ż���������Ҳ�����˼�ֵ��
+
+	�˿ڵ�Ǩ���������������ڴٽ�������Դ�ļ�ֵ�������������ڴ�����ҵת�ƺ͹���������Ȼ����Ӷ��ƶ����򾭼����ƽ�ⷢչ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-12 14:40</span></div>
+</li>
+<li><h4><a href='/n1/2021/0510/c1003-32099319.html' >����������������������г���������Ʒ������</a></h4>
+     <p class="content">����2021���й�Ʒ�Ʒ�չ������̳�ٰ죬�й�����Ʒ�Ʋ�������У�������֯��չ����ɫƷ�ƴ��������������й�Ʒ���գ�һϵ�����й�Ʒ���йصĻ���ڶ�����չʾ�й�Ʒ�Ʒ�չ���³ɹ���������ȫ�������Ʒ�Ʒ�չ��ʶ�����ô���Ʒ�Ʒ�չ������ڳ����ƽ�Ʒ�ƽ��衢�ٽ�������ᷢչ�������档</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-05-10 21:24</span></div>
+</li>
+<li><h4><a href='/n1/2021/0509/c427456-32098095.html' >���������Ϊʲô˵�׽������Ậ����������</a></h4>
+     <p class="content">����5��6�գ��׽��й���������Ʒ�������ں��Ͽ�Ļ����Ϊ�����׸������Ѿ�ƷΪ����Ĺ��Ҽ�չ�ᣬ����������չ�������8��ƽ���ף�����������Լ70�����Һ͵����Ľ�1500����ҵ��չ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-09 08:57</span></div>
+</li>
+<li><h4><a href='/n1/2021/0508/c1003-32097920.html' >�������������һ����������͸�Ӵ�ѭ����������</a></h4>
+     <p class="content">��������һ��С���٣�2.3���˴�ѡ������Σ����Ǵ��Ķ��������Ķ��棿�˳�������͸���ų�ͨ���ڴ�ѭ���ľ������롣
+
+	�������һ��С���٣�Խ��Խ����ο�ѡ�񵽹��������߳���ȥ����С�����ȥ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-08 19:04</span></div>
+</li>
+<li><h4><a href='/n1/2021/0507/c1003-32097004.html' >����������������������̲ع������������</a></h4>
+     <p class="content">�����ոչ�ȥ�ġ���ǿ�桱С���٣�����ѹ���Ѿõ���������ӭ����һ�μ����ͷš��̵����������εĹؼ��ʣ���ֻ�С�����������⡱���𱬡����˴��ڡ������С�Ʒ�����Ρ��������ںϡ�����ɫ���Ρ��ȡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-05-07 16:59</span></div>
+</li>
+<li><h4><a href='/n1/2021/0506/c434878-32096067.html' >�������������һ���á����ȣ��¿����̲��»���</a></h4>
+     <p class="content">����ȫ���������γ���2.3���˴Σ�ͬ������119.7%��ʵ�ֹ�����������1132.3��Ԫ��ͬ������138.1%�������ǽ��ꡰ��һ�����ڵġ�����ս����������������˵��������ȫ�������г�ƽ�����򣬡���һ���á�������ȡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-06 19:09</span></div>
+</li>
+<li><h4><a href='/n1/2021/0430/c1003-32093190.html' >�������������������ҵ��ϵ����������������Ҫ</a></h4>
+     <p class="content">���������ٿ��Ĺ���Ժ������飬�����ǿ������ҵ��ϵ���裬�ٽ���ͨ��ͨ��ũ�����롢ũ������˫������
+
+	����һͷ������һͷ����壬���򾭼��ڹ��񾭼÷�չ�з�������Ҫ���á�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-30 14:40</span></div>
+</li>
+<li><h4><a href='/n1/2021/0429/c1003-32092291.html' >����������γɽ��С΢��ҵ�����ѵĺ���</a></h4>
+     <p class="content">����2021���ջ���С΢��ҵ����Ҫ����ʵ�����١������ġ�������Ŀ�꣬��Ҵ�������ҪŬ��ʵ���ջ���С΢��ҵ����ȫ������30%���ϡ������գ�������ᷢ��������2021���һ���ƶ�С΢��ҵ���ڷ����������չ��֪ͨ�����������г��Ĺ㷺��ע��
+
+	���ڸ���������С΢��ҵ�����С΢��ҵ�����ѣ��ڵ�ǰ���ӵľ���������������Ҫ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-29 19:55</span></div>
+</li>
+<br><li><h4><a href='/n1/2021/0429/c1003-32091855.html' >����������Ӿ�ҵ�������������ǿ��Կ���ʲô��</a></h4>
+     <p class="content">������ҵ��������������ǰ��2021��һ�����й���ҵ���ɼ���������������������ҵ297���ˣ�ͬ������68���ˣ����ȫ��Ŀ�������27%��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-29 12:35</span></div>
+</li>
+<li><h4><a href='/n1/2021/0424/c434878-32086789.html' >�������:"ֱ���ʽ�",�ò�����ůֱ�ְ�����ͷ</a></h4>
+     <p class="content">���������ٿ��Ĺ���Ժ������飬��ʵʩ�ó�̬�������ʽ�ֱ�����������һ������Ҫ��ͻ��ֱ���ʽ�ʹ���ص㡢����ʣ��ֱ���ʽ��´��ʹ�ã��ϸ��ʽ��ܡ�
+
+	�ع�2020�꣬���¹ڷ������鷢�����������������ת��֧�����ƽ�1.7����Ԫ�ʽ�ֱ���´����ػ��㡣</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-24 16:41</span></div>
+</li>
+<li><h4><a href='/n1/2021/0423/c427456-32085555.html' >�������:��һ��ҵ����ֵͬ������8.1% ��ζ��ʲô?</a></h4>
+     <p class="content">��������ũ����ã�ȫ��������һ����ũҵũ�徭������ƽ�ȣ�̬�����ã���һ��ҵ����ֵ11332��Ԫ��ͬ������8.1%��Ϊ��ʮ���塱���þ֡���ò��춨��ʵ������</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-23 08:16</span></div>
+</li>
+<li><h4><a href='/n1/2021/0416/c1003-32080062.html' >���������2021�������ã��й��������������ռ�</a></h4>
+     <p class="content">����GDPͬ������18.3%������ƽ������5%��4��16�����磬һ�����й������������ʳ�¯���������ã�������ܡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-16 14:51</span></div>
+</li>
+<li><h4><a href='/n1/2021/0410/c434878-32074605.html' >�������:3��CPI����ƽ��,�������ƽ����������</a></h4>
+     <p class="content">���������۸�ˮƽ��CPI��PPI���������־��ò�����Ӱ�����Ԥ�ڡ��ոշ�����3�·�CPI����������������0.6%תΪ�½�0.5%��ͬ�����������½�0.2%תΪ����0.4%��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-10 09:58</span></div>
+</li>
+<div class="page">&nbsp;<a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index4.html'  >4</a>&nbsp;<a href='index5.html'  >5</a>&nbsp;&nbsp;<a href='index13.html'  >βҳ</a></div><!--all page--><!--PageNo=13-->
+</ul>
+               <ul><li><h4><a href='/n1/2021/0511/c1003-32099798.html' >�������������У����ѵ�����ط������ô�죿</a></h4>
+     <p class="content">�������Ⱥ�ڷ�ӳǿ�ҵ�У�������ѵ���������г�����ּܾۼྺ���ֻ�ͬ�������г���ֿܾ�չ�����ж�����С�����������Ƽ������������޹�˾����ҵ��ͱ���Գ�������Ƽ����޹�˾��Գ����������У�������ѵ���������Ϊ���м�顣5��10�գ��������г���ֶܾ�������У�������ѵ�����������Ծ����250��Ԫ���񷣿������������</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51854/index.html' target=_blank>�Ƽ�������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-11 08:55</span></div>
+</li>
+<li><h4><a href='/n1/2021/0508/c1003-32097928.html' >�����������Լ�����۹���͸��Ӧ����ҵ������ʶ</a></h4>
+     <p class="content">�������գ���ý����鷢�֣�һЩ��Լ��ƽ̨��ɳ���20%����ʱ�����ߴ�50%��Ҳ����˵���˿�֧���ĳ����У���ཫ��һ�뱻ƽ̨�����ˡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-08 19:33</span></div>
+</li>
+<li><h4><a href='/n1/2021/0430/c434885-32093032.html' >�����������APP��������Ϊ��������</a></h4>
+     <p class="content">�������ֻ����������в鿴ĳ������Ѷ�󣬹���Ӧ�õ���ҳ���̱�������Ʒ��ռ�족�����ذ�װһ��ܼ򵥵��ֻ�Ӧ�ã�ȴ��Ҫ����뿪ͨͨѶ¼����Ȩ�ޣ�������޷�ʹ����ط��񡭡��ճ������У����Ƿ񳣱���Щ������ţ�
+
+	�����������ƶ�������Ϊ������ִ���Ϣ�����������죬�ƶ�����Ӧ�ó������չ��APP�ڼ��������û���ģ�����������������ܵ����������ͬʱ��Ҳ���ò�Ϊ���ֹ�����Ȩ������Χ�ռ�������Ϣ�����⡰�򵥡���</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/1034/index.html' target=_blank>����������</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-30 12:32</span></div>
+</li>
+<li><h4><a href='/n1/2021/0424/c434885-32086790.html' >�����������ʵ�������÷����������</a></h4>
+     <p class="content">������ǰ����2020-2021����й�ʵ������ҵ���桷������������ʾ��2020���й��¿����4061�ң��ص�1573�ң��¿����ǹص�����2.6����</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a>|<a href='/GB/364183/index.html' target=_blank>�Ļ�������</a></p>
+                            <span class="time right">2021-04-24 16:45</span></div>
+</li>
+<li><h4><a href='/n1/2021/0422/c434885-32085275.html' >����������ø����˲�����ɫ��������</a></h4>
+     <p class="content">����С���䱸������κ�·�ơ�������ʹ�������ؿ�����̿¯����Ϊ�̵�Ҥ¯������ʵ��̼��塢̼�к�Ŀ��ı����£������ʯ��Դ��������ɫ�����Ļ����Ա����õؼ������ͳ�ƾֽ��չ�����������ʾ��һ���ȷ���̫���ܷ�������ƽ�������ֱ�Ϊ17.6%��12.5%��Զ�����ܷ���������ƽ������5.3%��ˮƽ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-22 20:13</span></div>
+</li>
+<li><h4><a href='/n1/2021/0420/c1003-32083055.html' >�������:5G��ģȫ�����,ؽ��ḻ����Ӧ�ó���</a></h4>
+     <p class="content">�������Ѿ�����������ȫ������ģ��5G�ƶ����硱����ǰ����ҵ����Ϣ�����ڹ���Ժ�������д�����ϣ���¶���й�5G��������½�չ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-04-20 19:38</span></div>
+</li>
+<li><h4><a href='/n1/2021/0420/c1003-32082895.html' >���������������Ȩ�����ܱ��ܿա�������</a></h4>
+     <p class="content">������ְҵ����ʦ���������ɣ���թ���������̼ҿ಻���ԡ����գ����ݾ����ƻ�һ��ְҵ����ʦ���Żﰸ����</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-20 15:23</span></div>
+</li>
+<li><h4><a href='/n1/2021/0419/c427456-32081169.html' >��������������ٽ�����OK��ҵ��������չ</a></h4>
+     <p class="content">�������գ����Ұ�Ȩ�֡��Ļ������β�����ӡ�������ڹ淶����OK�����Ȩ�г������֪ͨ�������¼�ơ�֪ͨ����������������㷺��ע�������ҹ���������Ʒ����Ӵ�֪ʶ��Ȩ�������ȵ���һ��Ҫ�ٴ룬��������������֪ʶ��Ȩ�ļᶨ���ġ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-04-19 14:07</span></div>
+</li>
+<li><h4><a href='/n1/2021/0416/c427456-32079613.html' >��������������ҵ����֮����ʵ�ָ�������չ</a></h4>
+     <p class="content">�������գ�˳��޿�����Ϣ�Լ������ͼ��ñ������¼��������㷺��ע����ʹ�����ҵ�ĵͼ۾��������ٴγ�Ϊ�����۹�ע�Ľ��㡣
+
+	��2016���������ҹ����ҵ���жȿ��������������ṩ�Ĳ�Ʒ��������Բ�������</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-16 08:31</span></div>
+</li>
+<li><h4><a href='/n1/2021/0415/c1003-32079179.html' >������������Ǹ���ΰ��ѡ��������δ������</a></h4>
+     <p class="content">������һ��App����ȫ��18�����������ͷ��������Ա����͵����˽��ֱ�������� ���գ�ý���һ�򱨵����˴�Ŀ���ģ��ٴ�������˽й¶�ľ��ӡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-15 18:42</span></div>
+</li>
+<br><li><h4><a href='/n1/2021/0414/c434885-32077931.html' >������������񴦷�ҩ�󣬽�ָҩ�ۡ���ߡ�</a></h4>
+     <p class="content">������ٷ�Ʊ���鹹ҵ���������ʡ������գ���������ͬ����ҽ���ֶ�77��ҽҩ��ҵʵʩ�����Ϣ�������Ľ���������Խ��պ�ɭҩҵ�����ڻ������ŵ�19��ҽҩ��ҵ���������������������3��Ԫ��5��Ԫ���ȣ������С��л����񹲺͹���Ʒ����涨�µĶ��񴦷�����˶��񴦷�ҩ���йز���Ϊ�İ㣿
+
+	����ҩ������缲���йز����ų���ȭ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-14 15:56</span></div>
+</li>
+<li><h4><a href='/n1/2021/0409/c1003-32074151.html' >������������������ϻ��������ˡ�ʩ��ͼ��</a></h4>
+     <p class="content">�������Ų�4��7�շ�������������վ���ϻ�ͨ����ƹ淶���͡��ƶ�������Ӧ��(APP)���ϻ�ͨ����ƹ淶������ȷ���ϰ���桢���������ϰ�APP���Ͻ����ֹ�浯��������ͨ����ƹ淶����������ԣ����н�ʹ�㣬Ϊ������Ⱥ��ʵ��ƽ�ȱ�ݻ�ȡ��Ϣ���������¡����ټ�����</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-04-09 15:08</span></div>
+</li>
+<li><h4><a href='/n1/2021/0409/c427456-32073735.html' >����������ǻ����Σ�Ϊ����������չ�������</a></h4>
+     <p class="content">�����ÿ���ǰ�������Ϸ�ʱԤԼ����Լ�Ŷ�ʱ��ɱ������������ǻۻ��������������������ḻ�������飻�����г�����Χ�ơ�������+�����������³����������Ρ������ա������֡���չ������ҵ̬���չ������ǰ���Ի�����Ϊ�������Ϣ��������������ҵ��ȫ�¡����䡱�����������г��ں�����ʱ�����ٸ��ա�
+
+	���գ��Ļ������β��������ķ����ġ�ȫ����������+���Ρ���չ���棨2021������ʾ�������ڼ�ȫ�������Ӵ�ԤԼ�ο͵ı����ߴ�60%��ƽʱҲ��40%��50%���������������ܶ��Ѵ����ڼ���</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-09 14:30</span></div>
+</li>
+<li><h4><a href='/n1/2021/0408/c427456-32072652.html' >�������:�ſ��г�׼��,�ƶ����޷�չ"��ˮӿ��"</a></h4>
+     <p class="content">������ǰ������Ժ�������Χ�Ƹ��󼤷��г�����������ٽ��Ⱦ�ҵ��������ȷ��������Źܷ����ĸ�ľ���ٴ룬���оͰ���֧���������裬����ſ��������޵��г�׼�롣
+
+	��һ��Ҫ��������һ�������ﴺ�ꡱ������Ϊ��־��������ҵ�ľ�Ӫ�߽�һ�����㴴ҵ������Ҳ�ù�����ΰ����߸��ܵ����߸���������ůů���⡣</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-08 08:43</span></div>
+</li>
+<li><h4><a href='/n1/2021/0404/c1003-32069483.html' >������������ƶ��ϣ��ƶ���Դ��ɫ��̼ת��</a></h4>
+     <p class="content">������Դ��ȫ�ǹ�ϵ���Ҿ�����ᷢչ��ȫ���ԡ�ս�������⣬�Թ��ҷ��ٷ�չ������������ơ���᳤�ξð�������Ҫ��
+
+	ê����Դ��ɫ��̼ת�Ͳ����ɣ��������ҹ���������Դʵ�ֿ�Խʽ��չ��2020���������Դ�������ù�ģ�Ⱦ������һ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-04 12:40</span></div>
+</li>
+<div class="page">&nbsp;<a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index4.html'  >4</a>&nbsp;<a href='index5.html'  >5</a>&nbsp;&nbsp;<a href='index5.html'  >βҳ</a></div><!--all page--><!--PageNo=5-->
+</ul>
+               <ul><li><h4><a href='/n1/2021/0513/c1003-32102671.html' >���������������©����޶��ë�������ۺܳ��أ�</a></h4>
+     <p class="content">�������ڣ�һ���ѧ�����ÿϵ»�APP�ͻ��˺�΢�ſͻ���֮�����ݲ�ͬ����©����ƭȡ�һ�ȯ��ȡ����Ĳ���İ����������������ע���Ϻ������������Ժ���տ�ͥ�����˴˰�����ĳ��������թƭ����ڷ��﷽���ﱻ�д�����ͽ��������������һ�������²��ȡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-13 19:59</span></div>
+</li>
+<li><h4><a href='/n1/2021/0511/c427456-32100307.html' >������������á���ˮ����������ź���</a></h4>
+     <p class="content">�������ڣ���һ�ֺܻ�ġ���ˮ����ߣ������ο�����С������ϣ�ƿ��ӡ�й�֭�����ֵ������������Һ����ˮ�ֲ���ˮ�����������������Σ�����Сѧ����Ϊ����ѹ������������Ѹ�ٻ��У԰�������ˡ����족��
+
+	Ȼ������ý�幺��9��14���Ρ���ˮ����������������������飬������Щ��߾�ȫ�����г���ŷ����߰�ȫ��ֵ����Ԫ�ء�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-05-11 17:16</span></div>
+</li>
+<li><h4><a href='/n1/2021/0504/c1003-32094547.html' >�����������Ⱥ�ڿ��󲡲�����</a></h4>
+     <p class="content">�������գ����Ұ�֢���Ĺ�����������ʾ��Ŀǰ�ҹ������������ߵ����������ʴ�40.5%����10��ǰ����˽�10���ٷֵ㡣�����������������ʳ�ܰ��������������Ѹ��ڲ��ַ�����ҡ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-05-04 15:06</span></div>
+</li>
+<li><h4><a href='/n1/2021/0429/c1003-32091808.html' >����������ž�������ϵ��˷ѡ��з�������</a></h4>
+     <p class="content">������һ������ʣһ��롢����������̫��Բ��ꡭ����Щ��Ϊ�����ٶ����շѡ�4��29�գ�ʮ����ȫ���˴�ί��ڶ�ʮ�˴λ�����ͨ����ʳƷ�˷ѷ����������˷ѿ��ճ�����������ѣ�ͬʱҲ��ȷ�̼��յ��󵼳�����ͣ���߿ɷ�1��Ԫ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-04-29 10:57</span></div>
+</li>
+<li><h4><a href='/n1/2021/0429/c1003-32091251.html' >����������ó��и�𡰿�����֮ʹ</a></h4>
+     <p class="content">����ÿ��Ѵ�ڣ�����һЩ���г������Ի�ˮ����ɽ�ͨ���в��㡢��������Ա�������������������˹������ӵ����½���������������Գ��ı���Ҳ�����ų��й����ߣ���ǿ������������̲��ݻ���</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-29 08:00</span></div>
+</li>
+<li><h4><a href='/n1/2021/0425/c434886-32087669.html' >�����������β��ܶž���С�����ǡ����ѼѪ��</a></h4>
+     <p class="content">�������ٴ��������궼����ѼѪ����������Ե�ɽ������һ��С��������귢�֣�ÿ�������ʮ�ݵġ���ѼѪ���ﾹȻ����Ѽ�ɷ֡�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-25 19:35</span></div>
+</li>
+<li><h4><a href='/n1/2021/0423/c1003-32086396.html' >�������������������·���������Ϊ�����</a></h4>
+     <p class="content">����4��23�գ����������Ű�͹����������Ͼٰ죬�����ּ��Ź�˾�а�ġ�����������·��׷Ѱ������ġ�����������������ڷ�̨����Ρ�ë�󶫺š��Ļ��㳡��ʽ�����
+
+	��·������ȫ��¡�ؿ�չ���굳ʷ�����ı����¿�չ������ǡ����ʱ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-23 20:34</span></div>
+</li>
+<li><h4><a href='/n1/2021/0421/c1003-32083786.html' >�������������ʳƷ��Ҫ�Ѻá�Ʒ�ʡ���һ��</a></h4>
+     <p class="content">�������Ȼ�������Ʒ���桢��ʳ���Ϸۡ������ڣ��ڶ�����ʳƷƷ��ǿ�����𣬱��������������������ܡ�һ��ʳ���롰լ���á���Ӱ�죬��֮����ֱ������ʽ���ƣ�����ʳƷ�ѳ�Ϊ�����г������������㡣</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/427456/index.html' target=_blank>�������</a></p>
+                            <span class="time right">2021-04-21 10:19</span></div>
+</li>
+<li><h4><a href='/n1/2021/0421/c434886-32083610.html' >����������㡰������������Ǯ��,Ī��������˰��</a></h4>
+     <p class="content">������9.9Ԫ�����ơ���19.9Ԫ����顱��199Ԫ�����ơ���������������ϣ����Ƶ�����ռ����沢���ʼ������ںš�˽��΢�š�����ƽ̨��С���򡭡���ʱ����Ϊ���ǵ����ˡ����ɽ�󡱣����������Ƶ�������Ⱥ�������ܻ�ӭ��
+
+	��ǩ����ռ�����ף�������֮��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-21 08:51</span></div>
+</li>
+<li><h4><a href='/n1/2021/0420/c1003-32083051.html' >����������������θ��գ�Ҫʫ��Զ��ҲҪ��ȫ��</a></h4>
+     <p class="content">���������ڹ�������������ƺ���������Ӱ�죬�չ�ȥ�ĵ�һ�����ҹ����ξ������к���Ԥ�ڣ��������ϵĻ������һ���ȹ̡��й������о�Ժ���·����ľ��þ���ָ����ʾ��2021���һ����ȫ�������г��Ȳ��������������Ľ�һ���ָ�����ҵ���ܽ�һ�����ۣ���ҵ���߽�һ���ɰ�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-20 18:54</span></div>
+</li>
+<br><li><h4><a href='/n1/2021/0414/c1003-32077721.html' >�������������ͯ��ױƷ���г�����ؽ���淶</a></h4>
+     <p class="content">�����߽��̳����򿪵���ƽ̨������Ÿ�ʽ�����ġ���ͯ�ں족����ͯ��Ӱ������ָͯ���͡��ȹ�档��Щ��Ʒ���ܵ�����С����ϲ��׷����ͬʱ��Ҳ�ڰ�ȫ�����ϸ��ҳ������˲������š�</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-14 11:11</span></div>
+</li>
+<li><h4><a href='/n1/2021/0413/c434886-32076591.html' >���������0���ǡ�0�ǣ���ҵС�����ˡ�Ԫ����</a></h4>
+     <p class="content">�������գ�Ԫ��ɭ�ַ�����Ǹ��������������Ʒ��ʾδ˵����0�ǡ��͡�0���ǡ�����������⣬�����Ʋ�Ʒ��װ�Ѹ�Ϊ�����ǡ�����֬����������һ�����ۻ�Ȼ��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-13 09:31</span></div>
+</li>
+<li><h4><a href='/n1/2021/0411/c427456-32074941.html' >������������Ͻ��ڼ��Ҫ���������ݡ�</a></h4>
+     <p class="content">���������������������ȡ��Ԥ���ѡ�����ŵ�����ܹ�Ԥ�����ϴ�λ�������ܸ߶���Ϣ�ֺ죬�������ǽ����ǽ������Ϊ�̺��ס���·�������������������ǹ㷺��ע��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-11 12:08</span></div>
+</li>
+<li><h4><a href='/n1/2021/0409/c1003-32073498.html' >�����������¥����¥��Ӧ����ũ��˵����</a></h4>
+     <p class="content">��������������˾��йظ�������ǰ��ʾ����彨��Ҫ���������ɫ��ò�����ܸ���󽨣��ر��Ǵ�ׯ�𲢲���Υ��ũ����Ը��ǿ��ũ����¥��������ʵʩ��彨���ж��ĵ�һ�꣬��һ��̬�����ٴ���ȷ��彨����Ϊũ�������һ��Ҫ����ũ����Ը��</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-09 08:12</span></div>
+</li>
+<li><h4><a href='/n1/2021/0408/c427456-32073223.html' >�����������Ī���ˡ���������ͬ�ڱˡ�������</a></h4>
+     <p class="content">�������գ����ڱ���ϵͳ��һЩ����ȷ��⡢���Ͻ�����������������󵼡�Ϊ�˱����Զﴫ�������������������ϵͳ���б�Ҫ����������������塣</p>
+<div class="btm"><p class="link left"><img src="/img/MAIN/2020/11/120599/static/images/icon02.gif" alt=""><a href='/GB/index.html' target=_blank>�۵�</a>|<a href='/GB/51863/index.html' target=_blank>��ᡤ����</a>|<a href='/GB/159301/index.html' target=_blank>ÿ����������</a></p>
+                            <span class="time right">2021-04-08 17:07</span></div>
+</li>
+<div class="page">&nbsp;<a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index4.html'  >4</a>&nbsp;&nbsp;<a href='index4.html'  >βҳ</a></div><!--all page--><!--PageNo=4-->
+</ul>
+            </div>
+            <!--<div class="page">
+                <a href="">��һҳ</a>
+                <a href="">1</a>
+                <a href="">2</a>
+                <a href="">3</a>
+                <a href="">��һҳ</a>
+            </div>-->
+        </div>
+        <div class="right blo3_r">
+            <p class="title">��������</p>
+            <ul><li><a href="http://opinion.people.com.cn/n1/2021/0312/c431360-32050381.html" target="_blank"><img src="/NMediaFile/2021/0407/MAIN202104071422357555141669432.jpg" width="220" height="350" border="0" alt="�ӡ�΢��ͷ���и���������������黳"/></a><p><a href="http://opinion.people.com.cn/n1/2021/0312/c431360-32050381.html" target="_blank">�ӡ�΢��ͷ���и���������������黳</a></p></li>
+<li><a href="http://opinion.people.com.cn/n1/2021/0305/c431360-32043687.html" target="_blank"><img src="/NMediaFile/2021/0407/MAIN202104071422364616114532658.jpg" width="220" height="350" border="0" alt="������й�����ĺܰ��"/></a><p><a href="http://opinion.people.com.cn/n1/2021/0305/c431360-32043687.html" target="_blank">������й�����ĺܰ��</a></p></li>
+<li><a href="http://opinion.people.com.cn/n1/2021/0308/c431360-32045937.html" target="_blank"><img src="/NMediaFile/2021/0407/MAIN202104071422360964255343744.jpg" width="220" height="350" border="0" alt="���ҵ��ڴ�����ݡ��嵥������Ӧ�ˣ�"/></a><p><a href="http://opinion.people.com.cn/n1/2021/0308/c431360-32045937.html" target="_blank">���ҵ��ڴ�����ݡ��嵥������Ӧ�ˣ�</a></p></li>
+<li><a href="http://opinion.people.com.cn/n1/2021/0304/c431360-32042283.html" target="_blank"><img src="/NMediaFile/2021/0407/MAIN202104071422367706836559324.jpg" width="220" height="350" border="0" alt="��������90������ȵ㻰��"/></a><p><a href="http://opinion.people.com.cn/n1/2021/0304/c431360-32042283.html" target="_blank">��������90������ȵ㻰��</a></p></li>
+</ul>
+        </div>
+    </div>
+    <div class="bottom clearfix ">
+        <div class="copyright w1000"><style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">�� �� �� �� Ȩ �� �� ��δ �� �� �� �� Ȩ �� ֹ ʹ ��<br />
+Copyright &copy; 1997-2021 by www.people.com.cn. all rights reserved</div></div>
+    </div>
+    <!--��Ȩ-->
+    <script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"
+        async></script>
+    <!-- CMS ΢�ŷ��� -->
+    
+    <script>
+        $("document").ready(function () {
+           
+            var swiper1 = new Swiper(".swiper1",{
+                autoplay:true,
+                pagination: {
+                    el: '.swiper-pagination',
+					clickable :true,
+                }, 
+            })
+            var swiper2 = new Swiper(".swiper2",{
+                
+                slidesPerView:3,
+                spaceBetween:40,
+                pagination: {
+                    el: '.swiper-pagination',
+					clickable :true,
+                },   
+            })
+            $(".nav li").on("mouseover",function(){
+                var index = $(this).index()
+                $(".nav li").siblings().removeClass("active").eq(index).addClass("active")
+                $(".blo3_l_main ul").siblings().hide().eq(index).show()
+            })
+            
+        })
+    </script>
+</body>
+</html>
