@@ -1,0 +1,13 @@
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.exe
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.deps.json
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.runtimeconfig.json
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.runtimeconfig.dev.json
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.dll
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.pdb
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.csprojAssemblyReference.cache
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.AssemblyInfoInputs.cache
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.AssemblyInfo.cs
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.csproj.CoreCompileInputs.cache
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.dll
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.pdb
+E:\大二下\软件构造基础\homework12\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.genruntimeconfig.cache
